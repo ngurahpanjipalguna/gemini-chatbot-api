@@ -72,3 +72,5 @@ If you need to start components separately:
 - Ensure port 3000 is available on your system
 - Verify that all dependencies are properly installed
 - Check your internet connection for Gemini API access
+
+  ![Gemini Chatbot Screenshot](./chatbot-demo.png)
